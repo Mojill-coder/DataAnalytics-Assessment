@@ -3,7 +3,7 @@
 ## Overview
 This assessment analyzes customer behavior using SQL queries across savings, plans, and user data. The queries identify high-value users, segment by transaction frequency, flag inactive accounts, and estimate customer lifetime value.
 
----
+----
 
 ## Question Breakdown
 
