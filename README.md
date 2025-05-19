@@ -38,7 +38,4 @@ This assessment analyzes customer behavior using SQL queries across savings, pla
 - Normalized all currency fields from kobo to naira.
 - Handled NULLs and division carefully to avoid errors (e.g., divide-by-zero on tenure).
 
----
 
-## Final Note
-All queries are optimized for readability and performance using Common Table Expressions (CTEs) and proper filtering logic.
